@@ -1,6 +1,7 @@
 import React, {useState} from 'react'
 import "./App.css";
 import Tasks from "./components/Tasks"
+import AddTaskContainer from "./components/AddTask";
 
 const App = () => {
     //let message = 'Hello, World!'
@@ -20,6 +21,7 @@ const App = () => {
     return (
         <>
             <div className="container">
+                <AddTaskContainer />
                 <Tasks tasks={tasks}/>
             </div>
         </>
