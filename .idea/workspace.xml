@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a81f724f-0520-48f4-8e09-e20abe5d38ec" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/AddTask.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/AddTask.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Button.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Button.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Task.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Task.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Tasks.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Tasks.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/AddTask.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/AddTask.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +66,8 @@
       <updated>1662134291285</updated>
       <workItem from="1662134293678" duration="6701000" />
       <workItem from="1662165243026" duration="3530000" />
-      <workItem from="1662169958590" duration="5819000" />
+      <workItem from="1662169958590" duration="5834000" />
+      <workItem from="1662212614942" duration="2275000" />
     </task>
     <servers />
   </component>
